@@ -160,6 +160,4 @@ This project helped in understanding:
 
 **Priyank Mehta**
 
-Java Developer | Spring Boot Enthusiast | Full Stack Learner
-
 Feel free to contribute, raise issues, or provide suggestions for improvement.
